@@ -16,7 +16,7 @@ Chat em tempo real, utilizando websocket.
 - [TypeScript](https://www.typescriptlang.org/)
 - [TypeORM](https://typeorm.io/#/)
 - [SQLlite](https://www.sqlite.org/index.html)
-- [Socket.io](https://socket.io/)e/yup)
+- [Socket.io](https://socket.io/)
 
 <img alt="imagem da API" src="https://raw.githubusercontent.com/alexfelipebarbosa/nlw5_nodejs/main/assets/api.png"> <br/>
 <img alt="Modelo de Dados" src="https://raw.githubusercontent.com/alexfelipebarbosa/nlw5_nodejs/main/assets/modelagem.png"> <br/>
@@ -27,11 +27,11 @@ Chat em tempo real, utilizando websocket.
 
 ### :mega: Link do curso:
 
-- [Rocketseat](http://www.alexbarbosa.info/2021/04/27/nlw5-node/)
+- [Rocketseat](https://nextlevelweek.com)
 
 ### :book: Mais detalhes no meu Blog:
 
-- [Blog](https://nextlevelweek.com)
+- [Blog](http://www.alexbarbosa.info/2021/04/27/nlw5-node/)
 
 ### :man: Autor
 

@@ -1,14 +1,13 @@
 # 🚀 5º Edição da NLW (Next Level Week) da Rocketseat
 
-<img alt="imagem da API" src="https://raw.githubusercontent.com/alexfelipebarbosa/nlw4_nodejs/main/assets/nlw4.png"> <br/>
+<img alt="NLW5" src="https://raw.githubusercontent.com/alexfelipebarbosa/nlw5_nodejs/main/assets/nlw.png"> <br/>
 
 # 👨‍💻 Projeto
 
-Calculo de NPS (Net Promoter Score)
-É uma métrica desenvolvida para medir os níveis de lealdade do cliente.
-De forma geral, a métrica avalia quanto o respondente recomenda uma determinada empresa, produto ou serviço para amigos, familiares ou colegas. A ideia é simples, se você gosta de usar um produto ou fazer negócios com uma determinada empresa, você deseja compartilhar essa experiência com outras pessoas, certo?
+Chat em tempo real, utilizando websocket.
 
-<img alt="imagem da API" src="https://raw.githubusercontent.com/alexfelipebarbosa/nlw4_nodejs/main/assets/email.png"> <br/>
+<img alt="projeto_1" src="https://raw.githubusercontent.com/alexfelipebarbosa/nlw5_nodejs/main/assets/projeto1.png"> <br/>
+<img alt="projeto_2" src="https://raw.githubusercontent.com/alexfelipebarbosa/nlw5_nodejs/main/assets/projeto2.png"> <br/>
 
 # 🛠 Tecnologias
 
@@ -16,21 +15,11 @@ De forma geral, a métrica avalia quanto o respondente recomenda uma determinada
 - [Express](https://expressjs.com/pt-br/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [TypeORM](https://typeorm.io/#/)
-- [Jest](https://jestjs.io/)
-- [Nodemailer](https://nodemailer.com/about/)
-- [Ethereal](https://ethereal.email/)
-- [Handlebars](https://handlebarsjs.com/)
-- [Yup](https://github.com/jquense/yup)
+- [SQLlite](https://www.sqlite.org/index.html)
+- [Socket.io](https://socket.io/)
 
-<img alt="imagem da API" src="https://raw.githubusercontent.com/alexfelipebarbosa/nlw4_nodejs/main/assets/fluxoApi.png"> <br/>
-
-## :airplane: Conteúdo:
-
-- [x] <b>Aula 1 - Rumo ao próximo nivel</b>
-- [x] <b>Aula 2 - Banco de Dados</b>
-- [x] <b>Aula 3 - Testando a nossa aplicação </b>
-- [x] <b>Aula 4 - Envio de e-mail </b>
-- [x] <b>Aula 5 - Finalizando nossa API com validações </b>
+<img alt="imagem da API" src="https://raw.githubusercontent.com/alexfelipebarbosa/nlw5_nodejs/main/assets/api.png"> <br/>
+<img alt="Modelo de Dados" src="https://raw.githubusercontent.com/alexfelipebarbosa/nlw5_nodejs/main/assets/modelagem.png"> <br/>
 
 ### :dart: Status:
 
@@ -38,7 +27,11 @@ De forma geral, a métrica avalia quanto o respondente recomenda uma determinada
 
 ### :mega: Link do curso:
 
-- [Rocketseat](https://nextlevelweek.com/episodios/node/1/edicao/4)
+- [Rocketseat](https://nextlevelweek.com)
+
+### :book: Mais detalhes no meu Blog:
+
+- [Blog](http://www.alexbarbosa.info/2021/04/27/nlw5-node/)
 
 ### :man: Autor
 
